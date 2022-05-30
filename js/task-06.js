@@ -13,8 +13,4 @@ function inputValidation() {
   }
 }
 
-function inputValidation() {
-  return;
-}
-
 inputEl.addEventListener("blur", inputValidation);
